@@ -40,7 +40,6 @@ Running `python app.py` generates the following HTML reports locally:
 - `data_drift_quality_report.html`
 
 These generated reports are not committed to the repository.
-```
 
 ## Installation and Usage
 
