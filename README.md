@@ -41,7 +41,7 @@ The HTML reports are generated output files and can be recreated by running the 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/evidently-data-monitoring.git
+git clone https://github.com/Gargik283/evidently-data-monitoring.git
 cd evidently-data-monitoring
 ```
 
