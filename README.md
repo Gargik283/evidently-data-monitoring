@@ -45,7 +45,7 @@ git clone https://github.com/YOUR-USERNAME/evidently-data-monitoring.git
 cd evidently-data-monitoring
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
+Replace `Gargik282` with your GitHub username.
 
 ### 2. Create and activate a virtual environment
 
