@@ -27,14 +27,20 @@ evidently-data-monitoring/
 ├── app.py
 ├── requirements.txt
 ├── README.md
-├── .gitignore
-├── data_drift_report.html
-├── data_quality_report.html
-├── model_performance_report.html
-└── data_drift_quality_report.html
+└── .gitignore
 ```
 
-The HTML reports are generated output files and can be recreated by running the Python script.
+## Generated Reports
+
+Running `python app.py` generates the following HTML reports locally:
+
+- `data_drift_report.html`
+- `data_quality_report.html`
+- `model_performance_report.html`
+- `data_drift_quality_report.html`
+
+These generated reports are not committed to the repository.
+```
 
 ## Installation and Usage
 
